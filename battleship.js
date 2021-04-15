@@ -21,3 +21,6 @@ let scores = [
 
         console.log("Всего тестов " + scores.length)
         console.log("Максимальй тест равен: "  + highScore)
+
+
+        
